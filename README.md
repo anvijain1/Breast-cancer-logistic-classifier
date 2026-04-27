@@ -33,8 +33,3 @@ This project builds a supervised machine learning model to classify tumors as **
 
 ## Results
 The model performs strongly in detecting malignant tumors, prioritizing high recall to minimize false negatives.
-
-## How to Run
-```bash
-pip install -r requirements.txt
-python main.py
